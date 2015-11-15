@@ -3,3 +3,6 @@
 - [ ] beefsteak
 - [ ] make friends
 - [ ] favorite blue
+- [ ] atom i love it
+- [ ] github is great
+- [ ] github i like it
