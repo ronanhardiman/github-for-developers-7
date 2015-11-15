@@ -2,3 +2,4 @@
 - [ ] from china beijing
 - [ ] beefsteak
 - [ ] make friends
+- [ ] favorite blue
